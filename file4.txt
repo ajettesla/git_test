@@ -1,2 +1,6 @@
 what is going on?
+<<<<<<< HEAD
 I am playing chess this is commit in master branch
+=======
+I palying football this is new branch commit.
+>>>>>>> new
